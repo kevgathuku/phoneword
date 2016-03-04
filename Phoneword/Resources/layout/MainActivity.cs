@@ -8,7 +8,7 @@ using Android.OS;
 
 namespace Phoneword
 {
-	[Activity (Label = "Phoneword", MainLauncher = true, Icon = "@mipmap/icon")]
+	[Activity (Label = "Phone Word", MainLauncher = true, Icon = "@mipmap/icon")]
 	public class MainActivity : Activity
 	{
 		protected override void OnCreate (Bundle savedInstanceState)
